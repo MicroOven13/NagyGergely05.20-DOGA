@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+    color: rgb(3, 3, 3);
+    text-align: justify;
+    padding: 0px;
+    margin: 0px;
+}
+
+main {
+    max-width: 1200px;
+    width: 80%;
+    margin: auto;
+    background-color: rgb(193, 202, 211);
+    display: grid;
+    
+}
+
+header {
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+}
+nav {
+    
+}
+nav ul {
+    list-style-type: none;
+}
+nav a {
+    text-decoration: none;
+}
+
+article {
+
+}
+
+aside{
+
+}
+
+footer {
+    background-color: black;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+}
+
+img {
+    max-width: 300px;
+}
