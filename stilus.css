@@ -107,5 +107,12 @@ h3 {
   aside {
     font-size: calc(10px+2vw);
   }
+  .kepek {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  nav {
+    text-align: center;
+  }
 
 }
